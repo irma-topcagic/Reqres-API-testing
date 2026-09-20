@@ -1,8 +1,8 @@
-# ReqRes API Testing
+## ReqRes API Testing
 
 Postman collection with automated tests for the [ReqRes](https://reqres.in) REST API.
 
-## What's covered
+### What's covered
 
 **Users**
 - List all users, get a single user, user not found
@@ -20,7 +20,7 @@ Postman collection with automated tests for the [ReqRes](https://reqres.in) REST
 **Other**
 - Delayed request, for checking how tests handle slower responses
 
-## Running it
+### Running it
 
 1. Clone this repo
 2. Open Postman and import `Collections/ReqRes-collection.json`
